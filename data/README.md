@@ -1,4 +1,4 @@
-# Aggregate data exports
+# Eksporty danych zagregowanych
 
 Pliki zawierają zagregowane wyniki analizy publicznej próbki GA4 Google Merchandise Store z listopada 2020 r. Zawartość ogranicza się do liczebności, kategorii urządzeń, dat i obliczonych wskaźników.
 
@@ -10,7 +10,7 @@ Pliki zawierają zagregowane wyniki analizy publicznej próbki GA4 Google Mercha
 
 Plik aktywności zachowuje oryginalną nazwę eksportu. Każdy wiersz to niezależna liczebność użytkowników dla danego zdarzenia. Notebook porządkuje zdarzenia na wykresie według typowej ścieżki zakupowej.
 
-## Export from BigQuery
+## Eksport z BigQuery
 
 1. Otwórz zapytanie źródłowe w BigQuery Studio i uruchom je w trybie GoogleSQL.
 2. W panelu **Results** wybierz **Save results** i pobierz plik CSV z nagłówkami.
